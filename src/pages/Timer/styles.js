@@ -11,11 +11,12 @@ export const styles = StyleSheet.create({
   title: {
     fontFamily: "Poppins-Regular",
     fontSize: 30,
-    color: "#7159C1",
+    color: "#00008B",
     marginBottom: 70,
   },
   progressContainer: {
     marginBottom: 25,
+    marginTop: -25,
   },
   timeContainer: {
     alignItems: "center",

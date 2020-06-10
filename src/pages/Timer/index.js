@@ -61,12 +61,12 @@ export default function Timer() {
     >
       <Text style={styles.title}>Pomodora</Text>
       <AnimatedCircularProgress
-        size={260}
+        size={280}
         width={10}
         fill={progress}
         rotation={0}
         style={styles.progressContainer}
-        tintColor="#9080D3"
+        tintColor="#4169E1"
         backgroundColor="#F9FBF2"
         onAnimationComplete={onAnimationComplete}
       >
@@ -79,11 +79,11 @@ export default function Timer() {
       </AnimatedCircularProgress>
       <View style={styles.timerSettingsContainer}>
         <View style={styles.timerSettingsOption}>
-          <MaterialCommunityIcons name="briefcase" size={24} color="#8A2BE2" />
+          <MaterialCommunityIcons name="briefcase" size={24} color="#00008B" />
           <Text style={styles.timeText}>25 min</Text>
         </View>
         <View style={styles.timerSettingsOption}>
-          <MaterialCommunityIcons name="update" size={24} color="#8A2BE2" />
+          <MaterialCommunityIcons name="update" size={24} color="#00008B" />
           <Text style={styles.timeText}>5 min</Text>
         </View>
       </View>

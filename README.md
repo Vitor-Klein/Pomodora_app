@@ -1,15 +1,44 @@
-# Expo Pomodoro APP
+<h1 align="center">Welcome to pomodoro-app-expo 👋</h1>
+<p>
+</p>
 
-App construído durante o Meetup Frontend SP
+> A simple application for productivity.
+<img src="https://github.com/Vitor-Klein/Pomodora_app/blob/master/assets/icon.png" style="border-radius:50px" />
+## Install
 
-## Executar app
+* Create a local folder on your machine and clone the repository.
+* Open the command prompt and run the command ```yarn install```.
 
-1. Instalar `expo-cli` globalmente com NPM ou Yarn;
-2. `git clone` nesse repositório;
-3. Acessa pasta do repositório e executa `yarn` pra instalar as dependências;
-4. Executa `yarn start` pra iniciar o Expo
-5. Baixar um app no celular chamado Expo ou Expo Client
-6. Escanear o QRCode
+## Usage
 
+```sh
+expo start 
+```
+## Dependencies 
+  * @react-native-community/masked-view
+  * @react-navigation/native
+  * @react-navigation/stack
+  * expo
+  * expo-linear-gradient
+  * react
+  * react-dom
+  * react-native
+  * react-native-circular-progress
+  * react-native-gesture-handler
+  * react-native-reanimated
+  * react-native-safe-area-context
+  * react-native-screens
+  * react-native-svg
+  * react-native-web
+  
+## Author
 
-Obs.: Para emular o app sem dispositivo físico: https://www.youtube.com/watch?v=eSjFDWYkdxM
+👤 **Vitor Klein**
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+**if you find any bug or error, leave me a pull request!**
+
+***

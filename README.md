@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to pomodoro-app-expo</h1>
+<h1 align="center">Welcome to My Pomodoro app!!</h1>
 <p>
 </p>
 
